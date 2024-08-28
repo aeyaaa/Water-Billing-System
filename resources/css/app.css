@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hover-highlight:hover {
+    background-color: #f0f0f0; /* Light grey background on hover */
+}
+/* bg-blue {
+    background-image: url('images/3bg.jpg') !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+ */
